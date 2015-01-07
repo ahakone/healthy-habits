@@ -1,5 +1,5 @@
-<h3>Healthy Habits</h3>
-
+<h1>Healthy Habits</h1>
+<a href="http://comp20-f2014-team4.herokuapp.com/"> Link </a>
 <h4>Problem Statement</h4>
 <p>Personal health and fitness covers a wide variety of areas. There is physical fitness and the much neglected mental health. 
 How can you create an app to address both of these areas and inspire people to strive to be fit in both areas?</p>
@@ -44,8 +44,3 @@ How can you create an app to address both of these areas and inspire people to s
 <h4>Mock-Ups</h4>
 <p>These mock-ups are sample features/pages our prototype will have.</p>
 <img src="./README-mockups/mockup.png" alt="mock-up photos for README" />
-
-#Comments by Ming
-* Pretty good.  I like how you broke down the incentives.
-* What front-end framework will you be using --and for what? That I am at a loss.
-* What APIs will you be using?
