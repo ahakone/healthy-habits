@@ -1,7 +1,7 @@
 <h1>Healthy Habits</h1>
 <a href="http://comp20-f2014-team4.herokuapp.com/"> Link </a>
-Login: zuzu
-Password: gabby
+Login: gabby <br>
+Password: pizza
 
 <h4>Problem Statement</h4>
 <p>Personal health and fitness covers a wide variety of areas. There is physical fitness and the much neglected mental health. 
