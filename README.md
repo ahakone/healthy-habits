@@ -1,4 +1,6 @@
 <h1>Healthy Habits</h1>
+Collaborators: Anzu Hakone, Gabby Cella, Duyen Nguyen, Laura Hofmann
+
 <a href="http://comp20-f2014-team4.herokuapp.com/"> Link </a>
 Login: gabby <br>
 Password: pizza
