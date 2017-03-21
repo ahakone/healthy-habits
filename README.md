@@ -46,7 +46,3 @@ How can you create an app to address both of these areas and inspire people to s
 - Algorithm to pair people will have to pair people within a certain range of points, randomly, and not repeat pairings too often
 - Algorithm for calculating total workout/fitness hours
 - Algorithm for calculating life expectancy: every gym session we measure how long they're there and every hour of exercise maps to seven hours of additional life expectancy
-
-<h4>Mock-Ups</h4>
-<p>These mock-ups are sample features/pages our prototype will have.</p>
-<img src="./README-mockups/mockup.png" alt="mock-up photos for README" />
